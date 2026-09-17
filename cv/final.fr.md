@@ -9,7 +9,7 @@ Toulouse, France
 
 Senior software engineer diplômé de l’INSA Toulouse avec plus de 20 ans d’expérience en développement logiciel, automatisation, systèmes de test et intégrations dans des environnements industriels complexes.
 
-Je suis spécialisé dans les plateformes développeurs, le Release Engineering, le CI/CD et les services cloud-native. Mon expérience hands-on couvre Python, FastAPI, les API REST, JavaScript, Docker, Kubernetes, GCP, OAuth 2.0 et les intégrations entre plateformes d’ingénierie. Je connais également l’instrumentation côté client et l’observabilité avec Sentry et Matomo.
+Je développe des outils de Release Engineering et de CI/CD, ainsi que des services cloud-native déployés sur Kubernetes. Mon expérience pratique couvre Python, FastAPI, les API REST, JavaScript, Docker, GCP, OAuth 2.0 et les intégrations entre plateformes d’ingénierie. Elle comprend aussi le suivi d’usage des outils avec Elasticsearch et Kibana, ainsi que l’instrumentation côté client avec Sentry et Matomo.
 
 Mon expérience de Product Owner et Scrum Master complète ce socle d’ingénierie : je sais clarifier les problèmes utilisateurs, effectuer des arbitrages techniques pragmatiques et coordonner la réalisation tout en restant proche de l’architecture et de l’implémentation.
 
@@ -19,16 +19,17 @@ Mon expérience de Product Owner et Scrum Master complète ce socle d’ingénie
 
 **Senior Software Engineer | Product Owner — Release Engineering** · Oct. 2023 — Aujourd’hui
 
-- Conception et évolution d’outils et services internes dédiés au Release Engineering, à la traçabilité logicielle et aux workflows développeurs.
+- Conception et évolution d’outils internes de Release Engineering et de CI/CD, au service de la traçabilité logicielle et des workflows développeurs.
 - Développement de services cloud-native et d’applications web avec Python, FastAPI et des API REST, intégrés à GitLab, Jira et Codebeamer.
 - Déploiement et exploitation d’applications et services internes dans des environnements Kubernetes sur Google Cloud Platform.
 - Prise en compte des besoins d’authentification et d’autorisation des applications web et API, notamment OAuth 2.0 et les contraintes de sécurité d’entreprise.
-- Contribution aux sujets Software Supply Chain : génération de SBOM, CycloneDX, Dependency-Track et gestion des vulnérabilités.
 - Création et amélioration de workflows GitLab CI/CD et d’automatisation, avec un objectif de fiabilité, maintenabilité et Developer Experience.
+- Collecte et indexation de données dans Elasticsearch et création de tableaux de bord Kibana pour suivre l’usage des outils internes.
+- Contribution aux sujets Software Supply Chain : génération de SBOM, CycloneDX, Dependency-Track et gestion des vulnérabilités.
 - Évaluation et intégration de technologies open source et de standards ouverts pour construire des solutions d’ingénierie pérennes.
 - En parallèle, rôle de Product Owner de l’équipe Release Engineering : traduction des besoins d’ingénierie en priorités et coordination des parties prenantes techniques.
 
-**Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Jira · Codebeamer · Artifactory · CycloneDX · Dependency-Track · Open Source
+**Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · GCP · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · Artifactory · CycloneDX · Dependency-Track · Open Source
 
 ### Groupe Renault / RSWL
 
@@ -103,17 +104,17 @@ Sept. 2005 — Déc. 2005
 
 ## Expertises clés
 
-Software Engineering, Platform Engineering, Intégration de systèmes, Release Engineering, Developer Experience, DevOps, CI/CD, Leadership technique
+Software Engineering, Outillage de Release Engineering, Intégration de systèmes, Developer Experience, DevOps, CI/CD, Observabilité, Leadership technique
 
 ## Technologies
 
-Python, FastAPI, API REST, JavaScript, Sentry, Matomo, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
+Python, FastAPI, API REST, JavaScript, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
 
 ## Domaines d’intérêt
 
-- **Plateformes & intégrations** — API, outillage interne, traçabilité et workflows développeurs.
-- **Instrumentation web** — Observabilité côté client, SDK JavaScript embarqués et monitoring applicatif.
-- **Software Supply Chain** — SBOM, gestion des vulnérabilités et standards ouverts.
+- **Release Engineering & CI/CD** — Outils internes, automatisation, traçabilité et workflows développeurs.
+- **Services cloud-native** — Développement et exploitation de services déployés sur Kubernetes.
+- **Observabilité & suivi d’usage** — Elasticsearch et Kibana pour les outils internes ; Sentry et Matomo côté client.
 - **IA & Automatisation** — Workflows agentiques pour les activités d’ingénierie et produit.
 
 ## Formation

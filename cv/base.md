@@ -18,12 +18,13 @@ Senior Software Engineer diplômé de l'INSA Toulouse, avec plus de 20 ans d'exp
 Domaines principaux :
 
 - développement Python et services backend ;
-- plateformes développeurs et Release Engineering ;
+- développement d'outils de Release Engineering et de CI/CD ;
 - intégration de systèmes et API REST ;
 - CI/CD, automatisation et Developer Experience ;
 - services cloud-native, Docker, Kubernetes et GCP ;
-- traçabilité logicielle et Software Supply Chain ;
-- expérience complémentaire de Product Owner et Scrum Master.
+- suivi d'usage des outils avec Elasticsearch et Kibana.
+
+Compétences complémentaires : traçabilité logicielle, Software Supply Chain, Product Ownership et Scrum Master.
 
 ## Compétences
 
@@ -42,8 +43,10 @@ Domaines principaux :
 - OAuth 2.0 et contraintes de sécurité d'entreprise
 - Jira, GitLab, Codebeamer et Artifactory
 
-### Observabilité et instrumentation web
+### Observabilité et suivi d'usage
 
+- Collecte et indexation de données d'usage dans Elasticsearch
+- Création et configuration de tableaux de bord Kibana pour suivre l'usage des outils internes
 - Sentry et Matomo
 - Intégration et configuration de solutions de monitoring web
 - Instrumentation côté navigateur et SDK JavaScript embarqués
@@ -74,8 +77,9 @@ Domaines principaux :
 - Développement de services cloud-native et d'applications web avec Python, FastAPI et des API REST, intégrés à GitLab, Jira et Codebeamer.
 - Déploiement et exploitation d'applications et services internes dans des environnements Kubernetes sur Google Cloud Platform.
 - Prise en compte des besoins d'authentification et d'autorisation des applications web et API, notamment OAuth 2.0 et les contraintes de sécurité d'entreprise.
-- Contribution aux sujets Software Supply Chain : génération de SBOM, CycloneDX, Dependency-Track et gestion des vulnérabilités.
 - Création et amélioration de workflows GitLab CI/CD et d'automatisation, avec un objectif de fiabilité, maintenabilité et Developer Experience.
+- Collecte et indexation de données dans Elasticsearch et création de tableaux de bord Kibana pour suivre l'usage des outils internes.
+- Contribution aux sujets Software Supply Chain : génération de SBOM, CycloneDX, Dependency-Track et gestion des vulnérabilités.
 - Évaluation et intégration de technologies open source et de standards ouverts.
 - En parallèle, rôle de Product Owner de l'équipe Release Engineering : traduction des besoins d'ingénierie en priorités et coordination des parties prenantes techniques.
 
@@ -159,4 +163,3 @@ Domaines principaux :
 - Périmètre précis des responsabilités d'architecture et de mentorat.
 - Résultats mesurables : utilisateurs, gains de temps, fiabilité, adoption ou réduction d'incidents.
 - Niveau d'implication exact dans la configuration de Sentry et Matomo afin de conserver une formulation strictement vérifiable.
-

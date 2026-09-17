@@ -9,7 +9,7 @@ Toulouse, France
 
 Senior software engineer and INSA Toulouse graduate with 20+ years of experience building software, automation, test systems and integrations in complex industrial environments.
 
-I specialize in developer platforms, Release Engineering, CI/CD and cloud-native services. My hands-on experience spans Python, FastAPI, REST APIs, JavaScript, Docker, Kubernetes, GCP, OAuth 2.0 and integrations across engineering platforms. I am also familiar with client-side instrumentation and observability through Sentry and Matomo.
+I build Release Engineering and CI/CD tools, along with cloud-native services deployed on Kubernetes. My hands-on experience spans Python, FastAPI, REST APIs, JavaScript, Docker, GCP, OAuth 2.0 and integrations across engineering platforms. It also includes monitoring internal tool usage with Elasticsearch and Kibana, and client-side instrumentation with Sentry and Matomo.
 
 My experience as Product Owner and Scrum Master complements my engineering background: I can clarify user problems, make pragmatic technical trade-offs and coordinate delivery while remaining close to architecture and implementation.
 
@@ -19,16 +19,17 @@ My experience as Product Owner and Scrum Master complements my engineering backg
 
 **Senior Software Engineer | Product Owner — Release Engineering** · Oct 2023 — Present
 
-- Design and evolve internal developer tools and services supporting Release Engineering, software traceability and developer workflows.
+- Design and evolve internal Release Engineering and CI/CD tools supporting software traceability and developer workflows.
 - Develop cloud-native services and web applications using Python, FastAPI and REST APIs, integrated with GitLab, Jira and Codebeamer.
 - Deploy and operate internal applications and services in Kubernetes-based environments on Google Cloud Platform.
 - Address authentication and authorization requirements for web applications and APIs, including OAuth 2.0 and enterprise security constraints.
-- Contribute to Software Supply Chain initiatives including SBOM generation, CycloneDX, Dependency-Track and vulnerability management.
 - Build and improve GitLab CI/CD and automation workflows with a focus on reliability, maintainability and developer experience.
+- Collect and index data in Elasticsearch and build Kibana dashboards to monitor internal tool usage.
+- Contribute to Software Supply Chain initiatives including SBOM generation, CycloneDX, Dependency-Track and vulnerability management.
 - Evaluate and integrate open-source technologies and open standards when they provide sustainable engineering solutions.
 - In parallel, act as Product Owner for the Release Engineering team, translating engineering needs into priorities and coordinating technical stakeholders.
 
-**Technologies:** Python · FastAPI · REST APIs · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Jira · Codebeamer · Artifactory · CycloneDX · Dependency-Track · Open Source
+**Technologies:** Python · FastAPI · REST APIs · GitLab CI/CD · Kubernetes · GCP · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · Artifactory · CycloneDX · Dependency-Track · Open Source
 
 ### Groupe Renault / RSWL
 
@@ -103,17 +104,17 @@ Sep 2005 — Dec 2005
 
 ## Core expertise
 
-Software Engineering, Platform Engineering, Systems Integration, Release Engineering, Developer Experience, DevOps, CI/CD, Technical Leadership
+Software Engineering, Release Engineering Tooling, Systems Integration, Developer Experience, DevOps, CI/CD, Observability, Technical Leadership
 
 ## Technology
 
-Python, FastAPI, REST APIs, JavaScript, Sentry, Matomo, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
+Python, FastAPI, REST APIs, JavaScript, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
 
 ## Focus areas
 
-- **Platform & Integrations** — APIs, internal tooling, traceability and developer workflows.
-- **Web Instrumentation** — Client-side observability, embedded JavaScript SDKs and application monitoring.
-- **Software Supply Chain** — SBOM, vulnerability management and open standards.
+- **Release Engineering & CI/CD** — Internal tools, automation, traceability and developer workflows.
+- **Cloud-native Services** — Building and operating services deployed on Kubernetes.
+- **Observability & Tool Usage** — Elasticsearch and Kibana for internal tools; Sentry and Matomo on the client side.
 - **AI & Automation** — Agentic workflows for engineering and product activities.
 
 ## Education
