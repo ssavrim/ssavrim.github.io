@@ -25,6 +25,8 @@
 
 .action-separator { opacity: .65; }
 
+.contact a[href^="tel:"] { white-space: nowrap; }
+
 .contact a:focus-visible,
 .actions a:focus-visible,
 .actions button:focus-visible {

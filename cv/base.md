@@ -1,6 +1,7 @@
 ---
 name: Sebastien Savrimoutou
 location: Toulouse, France
+phone: "+33673669583"
 website: https://ssavrim.github.io/
 github: https://github.com/ssavrim
 linkedin: https://www.linkedin.com/in/sebastien-savrimoutou-920b6453/
@@ -39,6 +40,7 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 ### Plateforme et cloud
 
 - GitLab CI/CD, Docker, Kubernetes
+- Celery, RabbitMQ et webhooks GitLab
 - Google Cloud Platform
 - OAuth 2.0 et contraintes de sécurité d'entreprise
 - Jira, GitLab, Codebeamer et Artifactory
@@ -65,6 +67,7 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 - Coordination de parties prenantes techniques
 - Scrum Master, Agile et SAFe
 - Clarification des besoins et arbitrages techniques
+- Usage quotidien de VS Code/Copilot et de skills pour les notes de version, la revue du backlog, le développement et la revue de code
 
 ## Expérience
 
@@ -78,7 +81,10 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 - Déploiement et exploitation d'applications et services internes dans des environnements Kubernetes sur Google Cloud Platform.
 - Prise en compte des besoins d'authentification et d'autorisation des applications web et API, notamment OAuth 2.0 et les contraintes de sécurité d'entreprise.
 - Création et amélioration de workflows GitLab CI/CD et d'automatisation, avec un objectif de fiabilité, maintenabilité et Developer Experience.
+- Optimisation d'un bot Celery/RabbitMQ alimenté par les webhooks GitLab et traitant plusieurs millions d'événements par jour.
+- Automatisation de l'envoi des résultats de tests vers Codebeamer, évitant plusieurs jours de travail manuel par campagne de tests.
 - Collecte et indexation de données dans Elasticsearch et création de tableaux de bord Kibana pour suivre l'usage des outils internes.
+- Utilisation quotidienne de VS Code/Copilot et de skills pour préparer les notes de version, revoir le backlog et assister le développement et la revue de code.
 - Contribution aux sujets Software Supply Chain : génération de SBOM, CycloneDX, Dependency-Track et gestion des vulnérabilités.
 - Évaluation et intégration de technologies open source et de standards ouverts.
 - En parallèle, rôle de Product Owner de l'équipe Release Engineering : traduction des besoins d'ingénierie en priorités et coordination des parties prenantes techniques.
@@ -91,6 +97,9 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 - Développement et maintenance d'outils logiciels, de services Python et de solutions d'automatisation pour les équipes d'ingénierie.
 - Développement d'applications web internes et d'API REST, dont des backends basés sur FastAPI.
 - Conception d'intégrations entre plateformes d'ingénierie au moyen d'API et de workflows automatisés.
+- Conception initiale d'un bot Celery/RabbitMQ connecté aux webhooks GitLab et traitant plusieurs millions d'événements par jour.
+- Développement d'un outil CLI utilisé en CI pour générer automatiquement les notes de version, économisant plusieurs heures par release.
+- Développement de build-on-demand, d'abord outil interne puis publié en open source, pour simplifier le déclenchement des pipelines GitLab.
 - Intégration et exploitation de solutions de monitoring web et d'instrumentation côté client avec Sentry et Matomo.
 - Travail sur des environnements conteneurisés et cloud, notamment Kubernetes et des déploiements GCP.
 - Contribution aux problématiques d'intégration et de sécurité applicative, notamment OAuth 2.0.
@@ -166,5 +175,5 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 
 - Niveau actuel exact en JavaScript et éventuelle pratique de TypeScript.
 - Périmètre précis des responsabilités d'architecture et de mentorat.
-- Résultats mesurables : utilisateurs, gains de temps, fiabilité, adoption ou réduction d'incidents.
+- Autres résultats mesurables à documenter : utilisateurs, fiabilité, adoption ou réduction d'incidents.
 - Niveau d'implication exact dans la configuration de Sentry et Matomo afin de conserver une formulation strictement vérifiable.

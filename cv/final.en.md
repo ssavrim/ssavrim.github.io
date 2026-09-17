@@ -3,7 +3,7 @@
 Senior Software Engineer | Platform & Integrations | Python · JavaScript · Cloud · CI/CD
 
 Toulouse, France  
-[sebastien.savrimoutou@gmail.com](mailto:sebastien.savrimoutou@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sebastien-savrimoutou-920b6453/) · [GitHub](https://github.com/ssavrim)
+[+33 6 73 66 95 83](tel:+33673669583) · [sebastien.savrimoutou@gmail.com](mailto:sebastien.savrimoutou@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sebastien-savrimoutou-920b6453/) · [GitHub](https://github.com/ssavrim)
 
 ## Profile
 
@@ -19,31 +19,28 @@ My experience as Product Owner and Scrum Master complements my engineering backg
 
 **Senior Software Engineer | Product Owner — Release Engineering** · Oct 2023 — Present
 
-- Design and evolve internal Release Engineering and CI/CD tools supporting software traceability and developer workflows.
-- Develop cloud-native services and web applications using Python, FastAPI and REST APIs, integrated with GitLab, Jira and Codebeamer.
-- Deploy and operate internal applications and services in Kubernetes-based environments on Google Cloud Platform.
-- Address authentication and authorization requirements for web applications and APIs, including OAuth 2.0 and enterprise security constraints.
-- Build and improve GitLab CI/CD and automation workflows with a focus on reliability, maintainability and developer experience.
-- Collect and index data in Elasticsearch and build Kibana dashboards to monitor internal tool usage.
-- Contribute to Software Supply Chain initiatives including SBOM generation, CycloneDX, Dependency-Track and vulnerability management.
-- Evaluate and integrate open-source technologies and open standards when they provide sustainable engineering solutions.
-- In parallel, act as Product Owner for the Release Engineering team, translating engineering needs into priorities and coordinating technical stakeholders.
+- Build Release Engineering and CI/CD tools and Python/FastAPI services deployed on Kubernetes (GCP), integrated with GitLab, Jira and Codebeamer.
+- Optimize a Celery/RabbitMQ bot fed by GitLab webhooks and processing several million events per day.
+- Automate the upload of test results to Codebeamer, saving several days of manual work per test campaign.
+- Develop GitLab CI/CD workflows; collect and index usage data in Elasticsearch and build Kibana dashboards.
+- Use VS Code/Copilot and skills daily to prepare release notes, review the backlog, and assist development and code review.
+- Contribute to Software Supply Chain work: SBOMs, CycloneDX, Dependency-Track and vulnerability management.
+- Act as Product Owner for the Release Engineering team alongside engineering work, prioritizing needs and coordinating technical stakeholders.
 
-**Technologies:** Python · FastAPI · REST APIs · GitLab CI/CD · Kubernetes · GCP · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · Artifactory · CycloneDX · Dependency-Track · Open Source
+**Technologies:** Python · FastAPI · REST APIs · GitLab CI/CD · Kubernetes · GCP · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX · Dependency-Track
 
 ### Groupe Renault / RSWL
 
 **Software Engineer | Scrum Master** · Jul 2017 — Oct 2023
 
-- Developed and maintained Python software tools, services and automation for engineering teams.
-- Built internal web applications and REST APIs, including FastAPI-based backends.
-- Designed integrations between engineering platforms through APIs and automated workflows.
-- Integrated and operated web monitoring and client-side instrumentation solutions including Sentry and Matomo, covering embedded JavaScript SDK configuration, browser telemetry, network calls and application monitoring.
-- Worked with containerized and cloud environments, Kubernetes and GCP deployments.
-- Contributed to application integration and security topics including OAuth 2.0 authentication flows.
-- Served as Scrum Master alongside engineering responsibilities, facilitating collaboration and continuous improvement.
+- Initially developed a Celery/RabbitMQ bot connected to GitLab webhooks and processing several million events per day.
+- Built a CLI used in CI to generate release notes automatically, saving several hours per release.
+- Developed build-on-demand, first as an internal tool and later published as open source, to make GitLab pipelines easier to trigger.
+- Built Python/FastAPI services, REST APIs and integrations across engineering platforms.
+- Integrated Sentry and Matomo for web monitoring and client-side instrumentation.
+- Contributed to Kubernetes/GCP deployments and OAuth 2.0 flows while also serving as Scrum Master.
 
-**Technologies:** Python · FastAPI · REST APIs · JavaScript · Sentry · Matomo · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
+**Technologies:** Python · FastAPI · REST APIs · JavaScript · Celery · RabbitMQ · Sentry · Matomo · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
 
 ### Intel Corporation
 
@@ -57,50 +54,10 @@ My experience as Product Owner and Scrum Master complements my engineering backg
 
 **Technologies:** Python · AngularJS · JavaScript · CoffeeScript · Docker · Microservices · CI/CD
 
-### SII
+### Earlier Experience · 2005–2013
 
-**Test Automation Engineer — Client assignment: Intel Corporation** · May 2010 — Aug 2013
-
-- Developed test frameworks and test cases for Android platform validation.
-- Developed drivers for test equipment and embedded agents exposing Android / MeeGo platform APIs.
-
-**Technologies:** Python · C/C++ · Java · XML · Android · MeeGo
-
-### Sogeti
-
-**Software / Test Automation / Validation Engineer — Client assignments** · Sep 2005 — Apr 2010
-
-#### Airbus — Validation Test Engineer
-
-Nov 2009 — Apr 2010
-
-- Tested and validated embedded systems providing data communication over AFDX networks.
-
-**Technologies:** ADCN/ADCN+ · AFDX · ARINC429
-
-#### Airbus — Test Automation Engineer
-
-Feb 2009 — Oct 2009
-
-- Developed solutions to generate traffic on AFDX networks and measure ADCN+ network performance.
-
-**Technologies:** Tcl/Tk · ADCN/ADCN+ · AFDX · Spirent TestCenter
-
-#### Freescale Semiconductor — Automation Engineer
-
-Jan 2006 — Jan 2009
-
-- Developed drivers to control semiconductor equipment and trained operators to automate industrial tasks.
-
-**Technologies:** C/C++ · Tcl/Tk · HTML · XML · Shell · Unix · SECS protocol
-
-#### Continental — Software Test Engineer
-
-Sep 2005 — Dec 2005
-
-- Unit testing and validation of embedded systems for automotive applications, including motor control and passenger compartment systems.
-
-**Technologies:** C · RTRT · DO-178B
+- **SII · Intel Corporation assignment (2010–2013)** — Test frameworks and equipment drivers for Android and MeeGo platform validation.
+- **Sogeti · Airbus, Freescale and Continental assignments (2005–2010)** — Automation and validation of embedded systems, AFDX networks and industrial equipment.
 
 ## Open Source Contributions
 
@@ -109,18 +66,11 @@ Sep 2005 — Dec 2005
 
 ## Core expertise
 
-Software Engineering, Release Engineering Tooling, Systems Integration, Developer Experience, DevOps, CI/CD, Observability, Technical Leadership
+Software Engineering, Release Engineering & CI/CD, Cloud-native Services, Systems Integration, Observability, Technical Leadership
 
 ## Technology
 
-Python, FastAPI, REST APIs, JavaScript, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
-
-## Focus areas
-
-- **Release Engineering & CI/CD** — Internal tools, automation, traceability and developer workflows.
-- **Cloud-native Services** — Building and operating services deployed on Kubernetes.
-- **Observability & Tool Usage** — Elasticsearch and Kibana for internal tools; Sentry and Matomo on the client side.
-- **AI & Automation** — Agentic workflows for engineering and product activities.
+Python, FastAPI, REST APIs, JavaScript, Celery, RabbitMQ, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
 
 ## Education
 
@@ -134,7 +84,5 @@ Engineer’s Degree — Network & Telecommunications
 **French:** Native
 
 **English:** Professional working proficiency
-
-**German:** Elementary
 
 *Last updated: September 2026.*
