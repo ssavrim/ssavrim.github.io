@@ -1,0 +1,130 @@
+/* A4 resume layout shared by the English and French pages. */
+@page { size: A4; margin: 11mm 14mm; }
+
+@media print {
+  html { scroll-behavior: auto; }
+  body {
+    background: #fff;
+    color: #1b2738;
+    font-size: 9pt;
+    line-height: 1.28;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .wrap { width: 100%; max-width: none; margin: 0; }
+  header {
+    background: none !important;
+    color: #172b43 !important;
+    padding: 0 0 4mm;
+    border-bottom: 1.5pt solid #24557e;
+  }
+  .hero { display: block; }
+  .eyebrow {
+    margin: 0 0 2mm;
+    color: #35617e;
+    font-size: 8pt;
+    letter-spacing: .09em;
+    opacity: 1;
+  }
+  h1 { font-size: 24pt; line-height: 1.08; letter-spacing: -.035em; }
+  .headline {
+    margin: 1.5mm 0 0;
+    max-width: none;
+    color: #34465a !important;
+    font-size: 10pt;
+    line-height: 1.3;
+  }
+  .contact {
+    display: flex;
+    gap: 1mm 5mm;
+    margin-top: 2mm;
+    font-size: 8.3pt;
+  }
+  .contact a { color: #24557e !important; opacity: 1; }
+  .contact a:nth-of-type(2), .contact a:nth-of-type(3) { overflow-wrap: anywhere; }
+  .print-url { display: inline; }
+  .actions, footer { display: none; }
+
+  main { padding: 4mm 0 0; }
+  .grid { display: block; }
+  .card {
+    margin: 0 0 3mm;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  h2 {
+    margin: 0 0 2mm;
+    padding-bottom: 1mm;
+    border-bottom: .5pt solid #aebdca;
+    color: #234d71;
+    font-size: 11pt;
+    line-height: 1.2;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+  h3 { font-size: 10pt; }
+  h4 { margin: 2mm 0 .5mm; font-size: 9pt; }
+  p { margin-bottom: 1.5mm; }
+  .summary { color: inherit; font-size: 9pt; }
+  .role {
+    margin: 0 0 2.5mm;
+    padding: 0 0 2mm;
+    border-bottom: .5pt solid #d2dce5;
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+  .role:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+  .role:nth-of-type(3) { break-inside: avoid; page-break-inside: avoid; }
+  .role-head { display: flex; gap: 4mm; margin-bottom: 0; break-after: avoid; }
+  .company { color: #234d71; }
+  .date { color: #52657a; font-size: 8.4pt; white-space: nowrap; }
+  .role-title { margin-bottom: 1mm; color: #34465a; font-size: 8.8pt; break-after: avoid; }
+  ul { margin: 1mm 0 0; padding-left: 5mm; }
+  li { margin: 0 0 .4mm; break-inside: avoid; page-break-inside: avoid; }
+  li::marker { color: #4d7390; }
+  .mini { color: #52657a; font-size: 8.3pt; }
+  .role > .mini { margin-top: 1mm; }
+  .assignment {
+    margin-top: 1.5mm;
+    padding-left: 3mm;
+    border-left: 1pt solid #b9cad8;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  .assignment .date { white-space: normal; }
+  .assignment ul { margin-top: .5mm; }
+  .assignment .mini { margin-top: .5mm; }
+
+  aside {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;
+    gap: 7mm;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  aside .card { margin: 0; }
+  aside h2:not(:first-child) { margin-top: 3mm; }
+  .chips { gap: 1mm 2mm; }
+  .chip {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    color: #34465a;
+    font-size: 8.5pt;
+    font-weight: 500;
+  }
+  .chip:not(:last-child)::after { content: " ·"; }
+  .focus { display: grid; gap: 2mm; }
+  .focus-item {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  .focus-item strong { margin-bottom: .5mm; }
+  aside p { margin-bottom: 1.5mm; }
+}

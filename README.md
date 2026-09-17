@@ -4,6 +4,8 @@ Ce dépôt contient mon CV en ligne et sa base éditoriale en Markdown.
 
 - [CV en anglais](https://ssavrim.github.io/)
 - [CV en français](https://ssavrim.github.io/fr.html)
+- [CV final en Markdown (anglais)](cv/final.en.md)
+- [CV final en Markdown (français)](cv/final.fr.md)
 - [Base commune du CV](cv/base.md)
 - [Profils ciblés](cv/profiles/README.md)
 
