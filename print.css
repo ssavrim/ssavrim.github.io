@@ -19,13 +19,6 @@
     border-bottom: 1.5pt solid #24557e;
   }
   .hero { display: block; }
-  .eyebrow {
-    margin: 0 0 2mm;
-    color: #35617e;
-    font-size: 8pt;
-    letter-spacing: .09em;
-    opacity: 1;
-  }
   h1 { font-size: 24pt; line-height: 1.08; letter-spacing: -.035em; }
   .headline {
     margin: 1.5mm 0 0;

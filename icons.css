@@ -1,0 +1,37 @@
+.icon {
+  width: 1.1em;
+  height: 1.1em;
+  flex: none;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.contact-location,
+.contact a,
+.actions .lang-btn,
+.actions .print-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .45em;
+}
+
+.actions .lang-btn,
+.actions .print-btn {
+  min-height: 44px;
+}
+
+.action-separator { opacity: .65; }
+
+.contact a:focus-visible,
+.actions a:focus-visible,
+.actions button:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+@media print {
+  .contact .icon { display: none; }
+}
