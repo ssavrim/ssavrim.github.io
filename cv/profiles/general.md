@@ -31,6 +31,7 @@ Senior Software Engineer with 20+ years of experience in software development, a
 - **Renault / RSWL :** mettre en avant Python, API, automatisation, cloud et intégrations.
 - **Intel :** conserver JavaScript, microservices, CI/CD et infrastructures hautement disponibles.
 - **Expériences antérieures :** synthétiser sans les supprimer ; elles démontrent la profondeur technique et les compétences réseau/embarqué.
+- **Contributions open source :** ajouter une section après les expériences, avec la session GitLab Co-Create et le rôle de contributeur principal sur build-on-demand ; lier les projets publics.
 
 ## Éléments secondaires
 

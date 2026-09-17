@@ -144,6 +144,11 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 - Tests unitaires et validation de systèmes embarqués automobiles, notamment pour le contrôle moteur et l'habitacle.
 - Technologies : C, RTRT, DO-178B.
 
+## Contributions open source
+
+- Participation à une session GitLab Co-Create sous le compte [@ssavrim](https://gitlab.com/ssavrim), avec une [merge request sur l'expansion de variables dans les règles CI/CD `rules:if`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/204549).
+- Contributeur principal de [build-on-demand](https://gitlab.com/grouperenault/build-on-demand), interface permettant de déclencher des builds GitLab à la demande.
+
 ## Formation
 
 ### INSA Toulouse

@@ -102,6 +102,11 @@ Sep 2005 — Dec 2005
 
 **Technologies:** C · RTRT · DO-178B
 
+## Open Source Contributions
+
+- **GitLab Co-Create** — Participated in a session as [@ssavrim](https://gitlab.com/ssavrim); [proposed a merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/204549) to expand variables in CI/CD `rules:if` conditions.
+- **[build-on-demand](https://gitlab.com/grouperenault/build-on-demand)** — Principal contributor to a user interface for triggering GitLab builds on demand.
+
 ## Core expertise
 
 Software Engineering, Release Engineering Tooling, Systems Integration, Developer Experience, DevOps, CI/CD, Observability, Technical Leadership
