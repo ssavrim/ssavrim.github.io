@@ -35,12 +35,12 @@ My experience as Product Owner and Scrum Master complements my engineering backg
 
 - Initially developed a Celery/RabbitMQ bot connected to GitLab webhooks and processing several million events per day.
 - Built a CLI used in CI to generate release notes automatically, saving several hours per release.
-- Developed build-on-demand, first as an internal tool and later published as open source, to make GitLab pipelines easier to trigger.
+- Developed the ReactJS user interface for build-on-demand, first as an internal tool and later published as open source, to make GitLab pipelines easier to trigger.
 - Built Python/FastAPI services, REST APIs and integrations across engineering platforms.
 - Integrated Sentry and Matomo for web monitoring and client-side instrumentation.
 - Contributed to Kubernetes/GCP deployments and OAuth 2.0 flows while also serving as Scrum Master.
 
-**Technologies:** Python · FastAPI · REST APIs · JavaScript · Celery · RabbitMQ · Sentry · Matomo · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
+**Technologies:** Python · FastAPI · REST APIs · JavaScript · ReactJS · Celery · RabbitMQ · Sentry · Matomo · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
 
 ### Intel Corporation
 
@@ -70,7 +70,7 @@ Software Engineering, Release Engineering & CI/CD, Cloud-native Services, System
 
 ## Technology
 
-Python, FastAPI, REST APIs, JavaScript, Celery, RabbitMQ, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
+Python, FastAPI, REST APIs, JavaScript, ReactJS, Celery, RabbitMQ, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
 
 ## Education
 
