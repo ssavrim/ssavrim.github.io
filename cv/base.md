@@ -32,7 +32,7 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 ### Ingénierie logicielle
 
 - Python, FastAPI, API REST
-- JavaScript, AngularJS, CoffeeScript
+- JavaScript, ReactJS, AngularJS, CoffeeScript
 - C, C++, Java, Tcl/Tk, Shell, XML
 - Microservices, architectures distribuées et automatisation
 - Tests automatisés, intégration continue et diagnostic
@@ -99,7 +99,7 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 - Conception d'intégrations entre plateformes d'ingénierie au moyen d'API et de workflows automatisés.
 - Conception initiale d'un bot Celery/RabbitMQ connecté aux webhooks GitLab et traitant plusieurs millions d'événements par jour.
 - Développement d'un outil CLI utilisé en CI pour générer automatiquement les notes de version, économisant plusieurs heures par release.
-- Développement de build-on-demand, d'abord outil interne puis publié en open source, pour simplifier le déclenchement des pipelines GitLab.
+- Développement de l'interface ReactJS de build-on-demand, d'abord outil interne puis publié en open source, pour simplifier le déclenchement des pipelines GitLab.
 - Intégration et exploitation de solutions de monitoring web et d'instrumentation côté client avec Sentry et Matomo.
 - Travail sur des environnements conteneurisés et cloud, notamment Kubernetes et des déploiements GCP.
 - Contribution aux problématiques d'intégration et de sécurité applicative, notamment OAuth 2.0.
