@@ -35,12 +35,12 @@ Mon expérience de Product Owner et Scrum Master complète ce socle d’ingénie
 
 - Conception initiale d’un bot Celery/RabbitMQ connecté aux webhooks GitLab et traitant plusieurs millions d’événements par jour.
 - Développement d’un CLI utilisé en CI pour générer automatiquement les notes de version, économisant plusieurs heures par release.
-- Développement de build-on-demand, d’abord outil interne puis publié en open source, pour simplifier le déclenchement de pipelines GitLab.
+- Développement de l’interface ReactJS de build-on-demand, d’abord outil interne puis publié en open source, pour simplifier le déclenchement de pipelines GitLab.
 - Développement de services Python/FastAPI, d’API REST et d’intégrations entre plateformes d’ingénierie.
 - Intégration de Sentry et Matomo pour le monitoring web et l’instrumentation côté client.
 - Contribution aux déploiements Kubernetes/GCP et aux flux OAuth 2.0 ; rôle de Scrum Master en parallèle.
 
-**Technologies :** Python · FastAPI · API REST · JavaScript · Celery · RabbitMQ · Sentry · Matomo · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
+**Technologies :** Python · FastAPI · API REST · JavaScript · ReactJS · Celery · RabbitMQ · Sentry · Matomo · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
 
 ### Intel Corporation
 
@@ -70,7 +70,7 @@ Ingénierie logicielle, Release Engineering & CI/CD, Services cloud-native, Int�
 
 ## Technologies
 
-Python, FastAPI, API REST, JavaScript, Celery, RabbitMQ, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
+Python, FastAPI, API REST, JavaScript, ReactJS, Celery, RabbitMQ, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
 
 ## Formation
 
