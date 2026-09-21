@@ -29,7 +29,7 @@ Senior Software Engineer with 20+ years of experience in software development, a
 ## Traitement des expériences
 
 - **Ampere :** commencer par l'outillage Release Engineering et CI/CD, le bot GitLab à forte charge et le gain de plusieurs jours par campagne de tests avec Codebeamer ; ajouter l'usage quotidien de VS Code/Copilot et des skills, puis terminer par le rôle de Product Owner.
-- **Renault / RSWL :** mettre en avant la création initiale du bot, la génération automatique des notes de version économisant plusieurs heures par release et build-on-demand, puis Python, API, cloud et intégrations.
+- **Renault / RSWL :** mettre en avant la création initiale du bot, la génération automatique des notes de version et le développement ReactJS de build-on-demand, puis Python, API, cloud et intégrations.
 - **Intel :** conserver JavaScript, microservices, CI/CD et infrastructures hautement disponibles.
 - **Expériences antérieures :** regrouper SII et Sogeti dans un bloc 2005–2013 avec leurs dates et missions essentielles ; conserver leur détail dans la base commune.
 - **Contributions open source :** ajouter une section après les expériences, avec la session GitLab Co-Create et le rôle de contributeur principal sur build-on-demand ; lier les projets publics.
