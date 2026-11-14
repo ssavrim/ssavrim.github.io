@@ -9,6 +9,8 @@ Cette arborescence sépare les faits professionnels de leur présentation.
 - [`profiles/general.md`](profiles/general.md) : positionnement général pour les candidatures spontanées.
 - [`profiles/datadome.md`](profiles/datadome.md) : variante ciblée pour le poste Software Engineer — Integrations chez DataDome.
 
+- [`profiles/swile.md`](profiles/swile.md) : variante ciblée pour Swile, maintenue sur la branche `cv/swile`.
+
 ## Règles de maintenance
 
 1. Une expérience ou une compétence factuelle est ajoutée d'abord dans `base.md`.

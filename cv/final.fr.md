@@ -2,18 +2,22 @@
 
 Senior Software Engineer
 
-Développement backend · API et intégrations · Cloud
+Développement logiciel · Product Ownership · CI/CD
 
 Toulouse, France  
 [+33 6 73 66 95 83](tel:+33673669583) · [sebastien.savrimoutou@gmail.com](mailto:sebastien.savrimoutou@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sebastien-savrimoutou-920b6453/) · [GitHub](https://github.com/ssavrim)
 
 ## Profil
 
-Ingénieur logiciel senior diplômé de l’INSA Toulouse, avec plus de 20 ans d’expérience en développement logiciel, automatisation et intégration de systèmes.
+Je développe des services backend et des applications web qui simplifient le quotidien des équipes d’ingénierie. Chez Ampere Software Technology, je développe des services Python/FastAPI et des API REST, je déploie des applications sur Kubernetes et je fais évoluer des pipelines GitLab CI/CD.
 
-Je développe des services Python/FastAPI et des API REST, je déploie des applications sur Kubernetes et je conçois des outils CI/CD pour les équipes d’ingénierie. J’utilise Elasticsearch et Kibana pour suivre l’usage de ces outils.
+En parallèle du développement, j’assure le rôle de Product Owner de l’équipe Release Engineering. Je clarifie les besoins avec les équipes, priorise les évolutions avec les parties prenantes et contribue à leur réalisation.
 
-En parallèle du développement, mon expérience de Product Owner et de Scrum Master m’aide à clarifier les besoins, à faire des choix techniques et à coordonner les livraisons.
+## Réalisations choisies
+
+- **[Build-on-Demand](https://gitlab.com/grouperenault/build-on-demand)** — Développement de l’interface React d’un outil interne, ensuite publié en open source, qui permet aux développeurs de lancer des pipelines GitLab à la demande.
+- **Traitement d’événements GitLab** — Développement puis optimisation d’un service Celery/RabbitMQ qui traite plusieurs millions d’événements GitLab par jour via des webhooks.
+- **Remontée des résultats de tests** — Automatisation de l’envoi des résultats vers Codebeamer, évitant plusieurs jours de travail manuel par campagne de tests.
 
 ## Expérience
 
@@ -22,11 +26,8 @@ En parallèle du développement, mon expérience de Product Owner et de Scrum Ma
 **Senior Software Engineer | Product Owner — Release Engineering** · Oct. 2023 — Aujourd’hui
 
 - Conception d’outils de Release Engineering et de CI/CD et de services Python/FastAPI déployés sur Kubernetes (GCP), intégrés à GitLab, Jira et Codebeamer.
-- Optimisation d’un bot Celery/RabbitMQ alimenté par les webhooks GitLab et traitant plusieurs millions d’événements par jour.
-- Automatisation de l’envoi des résultats de tests vers Codebeamer, évitant plusieurs jours de travail manuel par campagne de tests.
 - Développement de workflows GitLab CI/CD ; collecte et indexation de données d’usage dans Elasticsearch et création de tableaux de bord Kibana.
-- Utilisation quotidienne de VS Code/Copilot et de skills pour préparer les notes de version, revoir le backlog et assister le développement et la revue de code.
-- Contribution à la Software Supply Chain : SBOM, CycloneDX et gestion des vulnérabilités.
+- Utilisation de GitHub Copilot pour assister le développement et la revue de code.
 - Rôle de Product Owner de l’équipe Release Engineering en parallèle : priorisation des besoins et coordination des parties prenantes techniques.
 
 **Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · GCP · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX
@@ -35,9 +36,7 @@ En parallèle du développement, mon expérience de Product Owner et de Scrum Ma
 
 **Software Engineer | Scrum Master** · Juil. 2017 — Oct. 2023
 
-- Conception initiale d’un bot Celery/RabbitMQ connecté aux webhooks GitLab et traitant plusieurs millions d’événements par jour.
-- Développement d’un CLI utilisé en CI pour générer automatiquement les notes de version, économisant plusieurs heures par release.
-- Développement de l’interface React de build-on-demand, d’abord outil interne puis publié en open source, pour simplifier le déclenchement de pipelines GitLab.
+- Développement d’un outil en ligne de commande qui génère les notes de version dans la CI, économisant plusieurs heures par version.
 - Développement de services Python/FastAPI, d’API REST et d’intégrations entre plateformes d’ingénierie.
 - Intégration de Sentry pour le monitoring web et l’instrumentation côté client.
 - Contribution aux déploiements Kubernetes/GCP et aux flux OAuth 2.0 ; rôle de Scrum Master en parallèle.
@@ -64,7 +63,6 @@ En parallèle du développement, mon expérience de Product Owner et de Scrum Ma
 ## Contributions open source
 
 - **GitLab Co-Create** — Participation à une session sous le compte [@ssavrim](https://gitlab.com/ssavrim) ; [merge request proposée](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/204549) sur l’expansion de variables dans les règles CI/CD `rules:if`.
-- **[build-on-demand](https://gitlab.com/grouperenault/build-on-demand)** — Contributeur principal d’une interface permettant de déclencher des builds GitLab à la demande.
 
 ## Expertises clés
 

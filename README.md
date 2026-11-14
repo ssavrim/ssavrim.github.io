@@ -1,12 +1,9 @@
 # CV — Sebastien Savrimoutou
 
-La branche `main` contient mon CV généraliste en ligne et sa base éditoriale en Markdown.
+Cette branche contient une version ciblée pour le poste de **Senior Software Engineer chez Swile à Toulouse/Balma**. Le CV généraliste reste sur la branche `main`.
 
-- [CV en anglais](https://ssavrim.github.io/)
-- [CV en français](https://ssavrim.github.io/fr.html)
-- [CV final en Markdown (anglais)](cv/final.en.md)
-- [CV final en Markdown (français)](cv/final.fr.md)
-- [Base commune du CV](cv/base.md)
-- [Profils ciblés](cv/profiles/README.md)
+- [CV en français (Markdown)](cv/final.fr.md)
+- [CV en anglais (Markdown)](cv/final.en.md)
+- [Choix éditoriaux du profil Swile](cv/profiles/swile.md)
 
-La base commune contient les faits professionnels stables. Les profils ciblés définissent seulement le titre, le résumé, les compétences prioritaires et l'ordre de présentation adaptés à une candidature.
+Pour exporter le CV en PDF, récupérez cette branche, ouvrez `fr.html` ou `index.html` dans un navigateur, puis utilisez le bouton **Imprimer / PDF**.

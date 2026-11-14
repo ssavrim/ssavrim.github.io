@@ -7,6 +7,8 @@ Un profil décrit la manière de présenter la [base commune](../base.md) pour u
 - [`general.md`](general.md) : candidatures spontanées et postes techniques généralistes.
 - [`datadome.md`](datadome.md) : candidature Software Engineer — Integrations chez DataDome.
 
+- [`swile.md`](swile.md) : candidature Senior Software Engineer à Toulouse/Balma.
+
 ## Ajouter un profil
 
 Créer un fichier Markdown contenant au minimum :
