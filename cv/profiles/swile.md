@@ -27,5 +27,5 @@ Présenter d’abord un ingénieur qui développe et déploie des services et de
 ## À préserver
 
 - Python/FastAPI, API REST, Kubernetes et GitLab CI/CD restent les preuves de développement et de livraison.
-- Garder la contribution GitLab et l’usage concret de Copilot en appui, sans prétendre à un gain non mesuré.
+- Distinguer les PR fusionnées (Elastic Curator, Buildbot et gitrepo) de la proposition GitLab Co-Create. Garder l’usage concret de Copilot en appui, sans prétendre à un gain non mesuré.
 - Ne pas revendiquer TypeScript, Ruby, une expertise React ou un rôle de mentorat non documenté.

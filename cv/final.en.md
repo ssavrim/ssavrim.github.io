@@ -62,7 +62,10 @@ Alongside hands-on development, I work as Product Owner for the Release Engineer
 
 ## Open Source Contributions
 
-- **GitLab Co-Create** — Participated in a session as [@ssavrim](https://gitlab.com/ssavrim); [proposed a merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/204549) to expand variables in CI/CD `rules:if` conditions.
+- **Elastic Curator** — Added API key authentication to the Elasticsearch index management CLI ([merged PR #1607](https://github.com/elastic/curator/pull/1607)).
+- **Buildbot** — Improved the CI web interface by adding build request cancellation and displaying build reasons ([merged PRs #1878](https://github.com/buildbot/buildbot/pull/1878) and [#2126](https://github.com/buildbot/buildbot/pull/2126)).
+- **gitrepo (Renault)** — Automated package builds and PyPI publishing with GitHub Actions ([merged PR #7](https://github.com/grouperenault/gitrepo/pull/7)).
+- **GitLab Co-Create** — Proposed support for nested variables in CI/CD `rules:if` expressions ([MR !204549](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/204549)).
 
 ## Core expertise
 

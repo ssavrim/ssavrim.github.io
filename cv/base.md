@@ -154,7 +154,10 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 
 ## Contributions open source
 
-- Participation à une session GitLab Co-Create sous le compte [@ssavrim](https://gitlab.com/ssavrim), avec une [merge request sur l'expansion de variables dans les règles CI/CD `rules:if`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/204549).
+- **Elastic Curator** — Ajout de l’authentification par clé API à l’outil en ligne de commande de gestion des index Elasticsearch ([PR #1607 fusionnée](https://github.com/elastic/curator/pull/1607)).
+- **Buildbot** — Amélioration de l’interface web de CI : annulation des demandes de build et affichage de leur motif ([PR #1878](https://github.com/buildbot/buildbot/pull/1878) et [#2126](https://github.com/buildbot/buildbot/pull/2126) fusionnées).
+- **gitrepo (Renault)** — Automatisation de la création des paquets et de leur publication sur PyPI avec GitHub Actions ([PR #7 fusionnée](https://github.com/grouperenault/gitrepo/pull/7)).
+- **GitLab Co-Create** — Proposition de prise en charge des variables imbriquées dans les règles CI/CD `rules:if` ([MR !204549](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/204549)).
 - Contributeur principal de [build-on-demand](https://gitlab.com/grouperenault/build-on-demand), interface permettant de déclencher des builds GitLab à la demande.
 
 ## Formation
