@@ -23,7 +23,7 @@ Senior software engineer and INSA Toulouse graduate with 20+ years of experience
 1. Python, FastAPI et API REST
 2. Outillage de Release Engineering
 3. GitLab CI/CD et automatisation
-4. Kubernetes, Docker et GCP
+4. Kubernetes et Docker
 5. Intégrations Jira, GitLab et Codebeamer
 6. Fiabilité et impact des outils en production : millions d'événements par jour et temps de travail manuel évité
 7. Suivi d'usage des outils avec Elasticsearch et Kibana

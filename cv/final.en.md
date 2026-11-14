@@ -25,12 +25,12 @@ Alongside hands-on development, I work as Product Owner for the Release Engineer
 
 **Senior Software Engineer | Product Owner — Release Engineering** · Oct 2023 — Present
 
-- Build Release Engineering and CI/CD tools and Python/FastAPI services deployed on Kubernetes (GCP), integrated with GitLab, Jira and Codebeamer.
+- Build Release Engineering and CI/CD tools and Python/FastAPI services deployed on an internal Kubernetes platform, integrated with GitLab, Jira and Codebeamer.
 - Develop GitLab CI/CD workflows; collect and index usage data in Elasticsearch and build Kibana dashboards.
 - Use GitHub Copilot to assist with development and code review.
 - Act as Product Owner for the Release Engineering team alongside engineering work, prioritizing needs and coordinating technical stakeholders.
 
-**Technologies:** Python · FastAPI · REST APIs · GitLab CI/CD · Kubernetes · GCP · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX
+**Technologies:** Python · FastAPI · REST APIs · GitLab CI/CD · Kubernetes · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX
 
 ### Groupe Renault / RSWL
 
@@ -39,9 +39,9 @@ Alongside hands-on development, I work as Product Owner for the Release Engineer
 - Developed a command-line tool that runs in CI to generate release notes, saving several hours per release.
 - Built Python/FastAPI services, REST APIs and integrations across engineering platforms.
 - Integrated Sentry for web monitoring and client-side instrumentation.
-- Contributed to Kubernetes/GCP deployments and OAuth 2.0 flows while also serving as Scrum Master.
+- Contributed to Kubernetes deployments and OAuth 2.0 flows while also serving as Scrum Master.
 
-**Technologies:** Python · FastAPI · REST APIs · JavaScript · Celery · RabbitMQ · Sentry · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
+**Technologies:** Python · FastAPI · REST APIs · JavaScript · Celery · RabbitMQ · Sentry · GitLab CI/CD · Kubernetes · OAuth 2.0 · Docker
 
 ### Intel Corporation
 
@@ -70,7 +70,7 @@ Software Engineering, Release Engineering & CI/CD, Cloud-native Services, System
 
 ## Technology
 
-Python, FastAPI, REST APIs, JavaScript, Celery, RabbitMQ, Sentry, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX
+Python, FastAPI, REST APIs, JavaScript, Celery, RabbitMQ, Sentry, Elasticsearch, Kibana, Kubernetes, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX
 
 ## Education
 

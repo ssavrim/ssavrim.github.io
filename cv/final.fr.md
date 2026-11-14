@@ -25,12 +25,12 @@ En parallèle du développement, j’assure le rôle de Product Owner de l’éq
 
 **Senior Software Engineer | Product Owner — Release Engineering** · Oct. 2023 — Aujourd’hui
 
-- Conception d’outils de Release Engineering et de CI/CD et de services Python/FastAPI déployés sur Kubernetes (GCP), intégrés à GitLab, Jira et Codebeamer.
+- Conception d’outils de Release Engineering et de CI/CD et de services Python/FastAPI déployés sur une plateforme Kubernetes interne, intégrés à GitLab, Jira et Codebeamer.
 - Développement de workflows GitLab CI/CD ; collecte et indexation de données d’usage dans Elasticsearch et création de tableaux de bord Kibana.
 - Utilisation de GitHub Copilot pour assister le développement et la revue de code.
 - Rôle de Product Owner de l’équipe Release Engineering en parallèle : priorisation des besoins et coordination des parties prenantes techniques.
 
-**Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · GCP · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX
+**Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX
 
 ### Groupe Renault / RSWL
 
@@ -39,9 +39,9 @@ En parallèle du développement, j’assure le rôle de Product Owner de l’éq
 - Développement d’un outil en ligne de commande qui génère les notes de version dans la CI, économisant plusieurs heures par version.
 - Développement de services Python/FastAPI, d’API REST et d’intégrations entre plateformes d’ingénierie.
 - Intégration de Sentry pour le monitoring web et l’instrumentation côté client.
-- Contribution aux déploiements Kubernetes/GCP et aux flux OAuth 2.0 ; rôle de Scrum Master en parallèle.
+- Contribution aux déploiements sur Kubernetes et aux flux OAuth 2.0 ; rôle de Scrum Master en parallèle.
 
-**Technologies :** Python · FastAPI · API REST · JavaScript · Celery · RabbitMQ · Sentry · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
+**Technologies :** Python · FastAPI · API REST · JavaScript · Celery · RabbitMQ · Sentry · GitLab CI/CD · Kubernetes · OAuth 2.0 · Docker
 
 ### Intel Corporation
 
@@ -70,7 +70,7 @@ Ingénierie logicielle, Release Engineering & CI/CD, Services cloud-native, Int�
 
 ## Technologies
 
-Python, FastAPI, API REST, JavaScript, Celery, RabbitMQ, Sentry, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX
+Python, FastAPI, API REST, JavaScript, Celery, RabbitMQ, Sentry, Elasticsearch, Kibana, Kubernetes, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX
 
 ## Formation
 
