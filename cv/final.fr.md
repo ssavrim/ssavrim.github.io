@@ -1,17 +1,19 @@
 # Sebastien Savrimoutou
 
-Senior Software Engineer | Platform & Integrations | Python · JavaScript · Cloud · CI/CD
+Senior Software Engineer
+
+Développement backend · API et intégrations · Cloud
 
 Toulouse, France  
 [+33 6 73 66 95 83](tel:+33673669583) · [sebastien.savrimoutou@gmail.com](mailto:sebastien.savrimoutou@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sebastien-savrimoutou-920b6453/) · [GitHub](https://github.com/ssavrim)
 
 ## Profil
 
-Senior software engineer diplômé de l’INSA Toulouse avec plus de 20 ans d’expérience en développement logiciel, automatisation, systèmes de test et intégrations dans des environnements industriels complexes.
+Ingénieur logiciel senior diplômé de l’INSA Toulouse, avec plus de 20 ans d’expérience en développement logiciel, automatisation et intégration de systèmes.
 
-Je développe des outils de Release Engineering et de CI/CD, ainsi que des services cloud-native déployés sur Kubernetes. Mon expérience pratique couvre Python, FastAPI, les API REST, JavaScript, Docker, GCP, OAuth 2.0 et les intégrations entre plateformes d’ingénierie. Elle comprend aussi le suivi d’usage des outils avec Elasticsearch et Kibana, ainsi que l’instrumentation côté client avec Sentry et Matomo.
+Je développe des services Python/FastAPI et des API REST, je déploie des applications sur Kubernetes et je conçois des outils CI/CD pour les équipes d’ingénierie. J’utilise Elasticsearch et Kibana pour suivre l’usage de ces outils.
 
-Mon expérience de Product Owner et Scrum Master complète ce socle d’ingénierie : je sais clarifier les problèmes utilisateurs, effectuer des arbitrages techniques pragmatiques et coordonner la réalisation tout en restant proche de l’architecture et de l’implémentation.
+En parallèle du développement, mon expérience de Product Owner et de Scrum Master m’aide à clarifier les besoins, à faire des choix techniques et à coordonner les livraisons.
 
 ## Expérience
 
@@ -24,10 +26,10 @@ Mon expérience de Product Owner et Scrum Master complète ce socle d’ingénie
 - Automatisation de l’envoi des résultats de tests vers Codebeamer, évitant plusieurs jours de travail manuel par campagne de tests.
 - Développement de workflows GitLab CI/CD ; collecte et indexation de données d’usage dans Elasticsearch et création de tableaux de bord Kibana.
 - Utilisation quotidienne de VS Code/Copilot et de skills pour préparer les notes de version, revoir le backlog et assister le développement et la revue de code.
-- Contribution à la Software Supply Chain : SBOM, CycloneDX, Dependency-Track et gestion des vulnérabilités.
+- Contribution à la Software Supply Chain : SBOM, CycloneDX et gestion des vulnérabilités.
 - Rôle de Product Owner de l’équipe Release Engineering en parallèle : priorisation des besoins et coordination des parties prenantes techniques.
 
-**Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · GCP · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX · Dependency-Track
+**Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · GCP · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX
 
 ### Groupe Renault / RSWL
 
@@ -35,12 +37,12 @@ Mon expérience de Product Owner et Scrum Master complète ce socle d’ingénie
 
 - Conception initiale d’un bot Celery/RabbitMQ connecté aux webhooks GitLab et traitant plusieurs millions d’événements par jour.
 - Développement d’un CLI utilisé en CI pour générer automatiquement les notes de version, économisant plusieurs heures par release.
-- Développement de l’interface ReactJS de build-on-demand, d’abord outil interne puis publié en open source, pour simplifier le déclenchement de pipelines GitLab.
+- Développement de l’interface React de build-on-demand, d’abord outil interne puis publié en open source, pour simplifier le déclenchement de pipelines GitLab.
 - Développement de services Python/FastAPI, d’API REST et d’intégrations entre plateformes d’ingénierie.
-- Intégration de Sentry et Matomo pour le monitoring web et l’instrumentation côté client.
+- Intégration de Sentry pour le monitoring web et l’instrumentation côté client.
 - Contribution aux déploiements Kubernetes/GCP et aux flux OAuth 2.0 ; rôle de Scrum Master en parallèle.
 
-**Technologies :** Python · FastAPI · API REST · JavaScript · ReactJS · Celery · RabbitMQ · Sentry · Matomo · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
+**Technologies :** Python · FastAPI · API REST · JavaScript · Celery · RabbitMQ · Sentry · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
 
 ### Intel Corporation
 
@@ -70,7 +72,7 @@ Ingénierie logicielle, Release Engineering & CI/CD, Services cloud-native, Int�
 
 ## Technologies
 
-Python, FastAPI, API REST, JavaScript, ReactJS, Celery, RabbitMQ, Sentry, Matomo, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX, Dependency-Track
+Python, FastAPI, API REST, JavaScript, Celery, RabbitMQ, Sentry, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX
 
 ## Formation
 
@@ -85,4 +87,4 @@ Diplôme d’ingénieur — Réseaux & Télécommunications
 
 **Anglais :** Compétence professionnelle
 
-*Dernière mise à jour : septembre 2026.*
+*Dernière mise à jour : novembre 2026.*

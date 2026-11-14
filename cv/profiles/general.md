@@ -1,6 +1,6 @@
 ---
 profile: general
-language: en
+language: en, fr
 target: spontaneous applications
 source: ../base.md
 ---
@@ -9,11 +9,14 @@ source: ../base.md
 
 ## Titre
 
-**Senior Software Engineer | Platform, Cloud & Developer Tooling**
+**Senior Software Engineer**
+
+- FR — Développement backend · API et intégrations · Cloud
+- EN — Backend Development · APIs & Integrations · Cloud
 
 ## Résumé
 
-Senior Software Engineer with 20+ years of experience in software development, automation and systems integration. Focused on building Release Engineering and CI/CD tools and cloud-native services deployed on Kubernetes. Combines hands-on engineering with Product Ownership and Agile leadership experience to connect user needs, architecture and delivery.
+Senior software engineer and INSA Toulouse graduate with 20+ years of experience in software development, automation and systems integration. I develop Python/FastAPI services and REST APIs, deploy applications on Kubernetes, and build CI/CD tools for engineering teams. I use Elasticsearch and Kibana to track how teams use those tools. Alongside development, my experience as Product Owner and Scrum Master helps me clarify user needs, make technical trade-offs and coordinate delivery.
 
 ## Priorités
 
@@ -36,7 +39,7 @@ Senior Software Engineer with 20+ years of experience in software development, a
 
 ## Éléments secondaires
 
-- Présenter la Software Supply Chain, CycloneDX et Dependency-Track comme compétences complémentaires.
-- Ne pas placer Sentry et Matomo au centre du profil général.
+- Présenter la Software Supply Chain et CycloneDX comme compétences complémentaires.
+- Garder Sentry dans l’expérience qui le justifie. Conserver React uniquement comme preuve de réalisation web, sans le faire figurer dans le titre ou le sous-titre.
 - Décrire l'usage professionnel quotidien de l'IA par ses tâches concrètes, sans revendiquer un gain chiffré non mesuré.
 - Éviter que Product Owner apparaisse comme l'identité professionnelle principale.

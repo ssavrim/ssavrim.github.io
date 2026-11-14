@@ -1,6 +1,6 @@
 # CV — Sebastien Savrimoutou
 
-Ce dépôt contient mon CV en ligne et sa base éditoriale en Markdown.
+La branche `main` contient mon CV généraliste en ligne et sa base éditoriale en Markdown.
 
 - [CV en anglais](https://ssavrim.github.io/)
 - [CV en français](https://ssavrim.github.io/fr.html)
