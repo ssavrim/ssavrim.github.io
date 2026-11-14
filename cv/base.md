@@ -22,7 +22,7 @@ Domaines principaux :
 - développement d'outils de Release Engineering et de CI/CD ;
 - intégration de systèmes et API REST ;
 - CI/CD, automatisation et Developer Experience ;
-- services cloud-native, Docker, Kubernetes et GCP ;
+- services cloud-native, Docker et Kubernetes ;
 - suivi d'usage des outils avec Elasticsearch et Kibana.
 
 Compétences complémentaires : traçabilité logicielle, Software Supply Chain, Product Ownership et Scrum Master.
@@ -41,7 +41,6 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 
 - GitLab CI/CD, Docker, Kubernetes
 - Celery, RabbitMQ et webhooks GitLab
-- Google Cloud Platform
 - OAuth 2.0 et contraintes de sécurité d'entreprise
 - Jira, GitLab, Codebeamer et Artifactory
 
@@ -78,7 +77,7 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 
 - Conception et évolution d'outils et services internes dédiés au Release Engineering, à la traçabilité logicielle et aux workflows développeurs.
 - Développement de services cloud-native et d'applications web avec Python, FastAPI et des API REST, intégrés à GitLab, Jira et Codebeamer.
-- Déploiement et exploitation d'applications et services internes dans des environnements Kubernetes sur Google Cloud Platform.
+- Déploiement et exploitation d'applications et services internes sur une plateforme Kubernetes interne.
 - Prise en compte des besoins d'authentification et d'autorisation des applications web et API, notamment OAuth 2.0 et les contraintes de sécurité d'entreprise.
 - Création et amélioration de workflows GitLab CI/CD et d'automatisation, avec un objectif de fiabilité, maintenabilité et Developer Experience.
 - Optimisation d'un bot Celery/RabbitMQ alimenté par les webhooks GitLab et traitant plusieurs millions d'événements par jour.
@@ -101,7 +100,7 @@ Compétences complémentaires : traçabilité logicielle, Software Supply Chain,
 - Développement d'un outil CLI utilisé en CI pour générer automatiquement les notes de version, économisant plusieurs heures par release.
 - Développement de l'interface ReactJS de build-on-demand, d'abord outil interne puis publié en open source, pour simplifier le déclenchement des pipelines GitLab.
 - Intégration et exploitation de solutions de monitoring web et d'instrumentation côté client avec Sentry et Matomo.
-- Travail sur des environnements conteneurisés et cloud, notamment Kubernetes et des déploiements GCP.
+- Travail sur des environnements conteneurisés et cloud, notamment Kubernetes.
 - Contribution aux problématiques d'intégration et de sécurité applicative, notamment OAuth 2.0.
 - Rôle de Scrum Master en parallèle des responsabilités d'ingénierie.
 

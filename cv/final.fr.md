@@ -21,7 +21,7 @@ En parallèle du développement, mon expérience de Product Owner et de Scrum Ma
 
 **Senior Software Engineer | Product Owner — Release Engineering** · Oct. 2023 — Aujourd’hui
 
-- Conception d’outils de Release Engineering et de CI/CD et de services Python/FastAPI déployés sur Kubernetes (GCP), intégrés à GitLab, Jira et Codebeamer.
+- Conception d’outils de Release Engineering et de CI/CD et de services Python/FastAPI déployés sur une plateforme Kubernetes interne, intégrés à GitLab, Jira et Codebeamer.
 - Optimisation d’un bot Celery/RabbitMQ alimenté par les webhooks GitLab et traitant plusieurs millions d’événements par jour.
 - Automatisation de l’envoi des résultats de tests vers Codebeamer, évitant plusieurs jours de travail manuel par campagne de tests.
 - Développement de workflows GitLab CI/CD ; collecte et indexation de données d’usage dans Elasticsearch et création de tableaux de bord Kibana.
@@ -29,7 +29,7 @@ En parallèle du développement, mon expérience de Product Owner et de Scrum Ma
 - Contribution à la Software Supply Chain : SBOM, CycloneDX et gestion des vulnérabilités.
 - Rôle de Product Owner de l’équipe Release Engineering en parallèle : priorisation des besoins et coordination des parties prenantes techniques.
 
-**Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · GCP · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX
+**Technologies :** Python · FastAPI · API REST · GitLab CI/CD · Kubernetes · Celery · RabbitMQ · Elasticsearch · Kibana · OAuth 2.0 · Jira · Codebeamer · CycloneDX
 
 ### Groupe Renault / RSWL
 
@@ -40,9 +40,9 @@ En parallèle du développement, mon expérience de Product Owner et de Scrum Ma
 - Développement de l’interface React de build-on-demand, d’abord outil interne puis publié en open source, pour simplifier le déclenchement de pipelines GitLab.
 - Développement de services Python/FastAPI, d’API REST et d’intégrations entre plateformes d’ingénierie.
 - Intégration de Sentry pour le monitoring web et l’instrumentation côté client.
-- Contribution aux déploiements Kubernetes/GCP et aux flux OAuth 2.0 ; rôle de Scrum Master en parallèle.
+- Contribution aux déploiements sur Kubernetes et aux flux OAuth 2.0 ; rôle de Scrum Master en parallèle.
 
-**Technologies :** Python · FastAPI · API REST · JavaScript · Celery · RabbitMQ · Sentry · GitLab CI/CD · Kubernetes · GCP · OAuth 2.0 · Docker
+**Technologies :** Python · FastAPI · API REST · JavaScript · Celery · RabbitMQ · Sentry · GitLab CI/CD · Kubernetes · OAuth 2.0 · Docker
 
 ### Intel Corporation
 
@@ -72,7 +72,7 @@ Ingénierie logicielle, Release Engineering & CI/CD, Services cloud-native, Int�
 
 ## Technologies
 
-Python, FastAPI, API REST, JavaScript, Celery, RabbitMQ, Sentry, Elasticsearch, Kibana, Kubernetes, Google Cloud Platform, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX
+Python, FastAPI, API REST, JavaScript, Celery, RabbitMQ, Sentry, Elasticsearch, Kibana, Kubernetes, OAuth 2.0, Docker, GitLab CI/CD, Jira, Codebeamer, Artifactory, CycloneDX
 
 ## Formation
 

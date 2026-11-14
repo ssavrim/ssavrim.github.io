@@ -13,7 +13,7 @@ source: ../base.md
 
 ## Résumé
 
-Senior Software Engineer with 20+ years of experience across backend development, web integration, automation, test systems and distributed environments. Hands-on experience with Python, REST APIs, JavaScript and ReactJS, CI/CD, Docker, Kubernetes and GCP. Familiar with client-side instrumentation through Sentry and Matomo, and experienced in integrating software across complex enterprise platforms.
+Senior Software Engineer with 20+ years of experience across backend development, web integration, automation, test systems and distributed environments. Hands-on experience with Python, REST APIs, JavaScript and ReactJS, CI/CD, Docker and Kubernetes. Familiar with client-side instrumentation through Sentry and Matomo, and experienced in integrating software across complex enterprise platforms.
 
 ## Correspondances prioritaires
 
@@ -22,13 +22,13 @@ Senior Software Engineer with 20+ years of experience across backend development
 3. JavaScript et ReactJS avec build-on-demand, ainsi que les composants web développés chez Intel
 4. Instrumentation côté client avec Sentry et Matomo
 5. HTTP, réseaux et diagnostic de systèmes distribués
-6. CI/CD, Docker, Kubernetes et GCP
+6. CI/CD, Docker et Kubernetes
 7. OAuth 2.0, Software Supply Chain et sécurité applicative
 8. Coordination transverse et compréhension produit
 
 ## Traitement des expériences
 
-- **Ampere :** placer en premier les intégrations GitLab/Jira/Codebeamer, Python/FastAPI, GCP/Kubernetes, CI/CD et OAuth 2.0.
+- **Ampere :** placer en premier les intégrations GitLab/Jira/Codebeamer, Python/FastAPI, Kubernetes sur infrastructure interne, CI/CD et OAuth 2.0.
 - **Renault / RSWL :** expliciter le développement de l'interface ReactJS de build-on-demand et l'intégration de Sentry/Matomo, dans les limites de l'expérience réelle.
 - **Intel :** développer JavaScript, AngularJS, CoffeeScript, microservices, HTTP, CI/CD et haute disponibilité.
 - **SII/Sogeti :** conserver les drivers, agents, protocoles et réseaux pour démontrer la capacité à travailler sur des intégrations bas niveau.
